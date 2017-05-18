@@ -5,6 +5,8 @@
 #include <sys\stat.h>
 #define chunk (5*1024) 
 
+eyalchange1
+eyal change2
 
 void copy_folder(char *src, char *dest)
 {
