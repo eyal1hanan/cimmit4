@@ -6,7 +6,6 @@
 #define chunk (5*1024) 
 
 
-
 void copy_folder(char *src, char *dest)
 {
 	WIN32_FIND_DATAA info ;
